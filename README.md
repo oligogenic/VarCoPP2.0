@@ -1,5 +1,7 @@
 # VarCoPP2.0
 
+[![DOI](https://zenodo.org/badge/505771639.svg)](https://zenodo.org/badge/latestdoi/505771639)
+
 Code and data for VarCoPP2.0.
 
 Experiments in [jupyter notebook](https://github.com/oligogenic/VarCoPP2.0/blob/main/VarCoPP2.0.ipynb).
