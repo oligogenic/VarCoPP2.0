@@ -1,6 +1,6 @@
 # VarCoPP2.0
 
-[![DOI](https://zenodo.org/badge/505771639.svg)](https://zenodo.org/badge/latestdoi/505771639)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7766535.svg)](https://doi.org/10.5281/zenodo.7766535)
 
 Code and data for VarCoPP2.0.
 
